@@ -5,7 +5,6 @@ void main() {
   const num_02 = 20;
   final num_03 = 12; 
  
-
   // Dynamic Variable (can store any type)
   dynamic name = "dart";
   name = 50;      
