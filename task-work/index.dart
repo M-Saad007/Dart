@@ -1,5 +1,3 @@
-// ignore_for_file: unused_element
-
 void main(){
   // 1. Creates a list of integers.
   List<int> numbers = [5, 10, 15, 20, 25];
